@@ -1,6 +1,5 @@
 #include<bits/stdc++.h>
 using namespace std;
-
 void oddeven(int num){
     if(num<=0){
         cout<<"The entered number is not a natural number.\n";

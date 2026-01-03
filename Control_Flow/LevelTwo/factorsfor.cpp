@@ -1,6 +1,5 @@
 #include <iostream>
 using namespace std;
-
 void printFactors(int number) {
     cout << "Factors of " << number << " are: ";
     for (int i = 1; i <= number; i++) {

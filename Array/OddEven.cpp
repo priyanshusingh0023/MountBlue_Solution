@@ -1,6 +1,5 @@
 #include<bits/stdc++.h>
 using namespace std;
-
 void Evenodd(int num){
     if(num<0){
         cout<<"Invalid ";
